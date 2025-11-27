@@ -1,2 +1,13 @@
+# formats
+
 *.mp3
 *.mp4
+
+# folders
+
+/build
+/dist
+
+# suspicious files
+main.spec
+converter_settings.json
